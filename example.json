@@ -1,0 +1,7 @@
+{
+  "action": "ratio",
+  "args": {
+    "sold": 5,
+    "capacity": 10
+  }
+}
